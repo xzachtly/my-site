@@ -11,14 +11,11 @@ function App() {
       <header className="App-header">
         <h1>Zach Duncan</h1>
         <div className="link-wrapper">
-          <a href="https://github.com/xzachtly" target="_blank">
+          <a href="https://github.com/xzachtly" rel="noopener">
             <FontAwesomeIcon icon="fa-brands fa-github" />
           </a>
-          <a href="https://www.linkedin.com/in/duncanz/" target="_blank">
+          <a href="https://www.linkedin.com/in/duncanz/" rel="noopener">
             <FontAwesomeIcon icon="fa-brands fa-linkedin" />
-          </a>
-          <a href="">
-            <FontAwesomeIcon icon="fa-brands fa-instagram" />
           </a>
         </div>
       </header>
